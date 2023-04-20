@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netbook/static/css/main.89b0405c.css",
+    "main.js": "/netbook/static/js/main.12715452.js",
+    "index.html": "/netbook/index.html",
+    "main.89b0405c.css.map": "/netbook/static/css/main.89b0405c.css.map",
+    "main.12715452.js.map": "/netbook/static/js/main.12715452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b0405c.css",
+    "static/js/main.12715452.js"
+  ]
+}
